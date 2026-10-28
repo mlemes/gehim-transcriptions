@@ -2,6 +2,8 @@
 
 Turns speech in video and audio files into text. Portuguese, English, Italian and Spanish are recognised automatically. Everything runs on your own computer: your files are never uploaded anywhere.
 
+This tool was developed to be used by the [GEHIM group](https://historiaibericamoderna.wordpress.com/).
+
 ## What you need
 
 - A Windows 10 or 11 computer.
